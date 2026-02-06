@@ -1,6 +1,9 @@
 ## Overview
 This project is a clone of the Cursor.ai landing page,built from scratch using only semantic HTML5 and modern CSS3. The aim of this project is to create a like to like replication of cursor's landing page.
 
+## Live Project Link
+https://cursor-landing-page-clonee.netlify.app/
+
 ## Key Features
 
 1. Created in a deep, high-contrast dark theme to give a a premium developer tool feel.
